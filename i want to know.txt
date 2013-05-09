@@ -1,0 +1,3 @@
+QUESTIONS I HAVE
+----------------
+In Statistics: If you have a 5% error bars on a graph of something measured in %, do you add +/- 5 percentage points to get the bars, or +/- 5 PERCENT?
