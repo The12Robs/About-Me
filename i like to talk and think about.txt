@@ -19,3 +19,5 @@ Determining truth
 The possibility that we might be living in a simulation
 Emergence
 A membrane theory of technological advancement, and how the US space program demonstrates it
+How companies should be required to give you any data they've collected on you and how that's good for quantified self, autonomous agents, preventing lockin, and, of course, privacy
+Seasteading - Government startup boon or social nightmare?

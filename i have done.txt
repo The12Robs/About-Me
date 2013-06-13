@@ -2,14 +2,19 @@ THINGS I HAVE DONE
 ------------------
 
 Been a father (work in progress)
-Worn a camera that takes a photo every minute (ongoing)
-Created a meeting mixer (The Scrambler)
 
 Non-Work
 --------
 Quantified Self
+Worn a camera that takes a photo every minute (ongoing)
+Co-Organizer for Portland, Oregon QS
+Organizer for the less formal, monthly meetups
+Created a meeting mixer (The Scrambler)
 
 Websites
+A site where visitors click on an appropriate tag for a photo, and when a tag is aproved, related tags become available for voting.  An attempt to get at tagging content in an engaging way with the fewest interactions possible. 
+AllMyDrums.com/AllMyKicks.com
+Mortar?
 
 Futurism
 
@@ -20,24 +25,38 @@ Podcasting
 Work
 ----
 Fight - 2009
+ITERATIVE FRAMEWORK FOR MARKETING.  WHY WAS FIGHT FORMED?
 Co-founder
 Analyst
-Marketing/Media/Business Strategist
+Marketing/Media Strategist
 Interaction Design
 Copywriter
 Developer
+Portland General Electric
+- Social marketing strategy
+- Brand strategy
+- Consumer research
+- Marketing analytics
+WebTrends, Brooks (via Great Society), Oregon Lottery (via BPN), Cliff Bar (via North), Deschutes Brewery (via North), Keen (via North), Oregon Historical Society, Liquid, Mutt
+Major projects:
+- PGE's Switch Labs.  LINKS TO SWITCH LABS + SPECIFIC ROLE + AWARDS WON - Concepting SL as a whole, concepting individual episodes, researching potential concepts, testing strategy and plan for each episode, conduct testing, writing for most episodes, web copy for all episodes
+-- Tested refrigerators, measured the energy used by a house, figured out how to efficiently boil water
+- Fight's Forage. LINK. A mobile scavenger hunt built to bring people together at conferences and gatherings of all types.
 
 MarchFirst/SBI/Razorfish - 2000
 Director of Technology
+- Reorganized the Portland technology group to run more efficiently and better scale
+- Re-oriented internal client expectation and engagement models to support better internal satisfaction in the technology group and internal client satisfaction at the same time
 - Adidas, Coors, Best Buy, Levis
 - Microsoft: Silverlight launch, Zune launch, various Bing-related projects, Windows online retail integration, Office online retail integration
 Director of Analytics
-- Microsoft Bing advertising, Adidas basketball, Adidas running, Visa retention marketing, Reckitt Benkiser, Levis
+- Microsoft Bing advertising, Adidas basketball, Adidas running, Adidas retention marketing, Visa retention marketing, Reckitt Benkiser, Levis, Northwest Airlines
 User Experience Director
 Strategist
 - Coors, Microsoft, Visa
 
 Digital Mercury - 2000
+Engineering Manager
 Built the company's only money-making enterprise (and the longest lasting product)
 
 Buildstream - 1999
